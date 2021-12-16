@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.grid-container{
+    display: flex;
+    gap: 10px 10px;
+  flex-wrap: wrap;
+}
+.block{
+ background: turquoise;
+ height: 200px;
+ width: 48%;
+}
